@@ -1,24 +1,16 @@
-# README
+#The Hacking News
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##Prerequisites
 
-Things you may want to cover:
+Ruby version : 2.5.1
 
-* Ruby version
+Run ```bundle install```
 
-* System dependencies
+##Informations
 
-* Configuration
+Check the schema.rb and seeds.rb files in the db directory. Check as well the db/migrate folder to understand all updates that have been
+done
 
-* Database creation
+Check the app/models directory to access models
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
